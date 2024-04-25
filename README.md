@@ -14,13 +14,13 @@ Ferramenta desenvolvida para cálculos matemáticos básicos de forma rápida e 
 
 Desenvolvi esta ferramenta utilizando HTML e CSS para proporcionar uma experiência agradável e responsiva em diversos dispositivos. Com o uso de JavaScript, defini as regras e funções necessárias para a calculadora realizar cálculos matemáticos do dia a dia.
 
-📩 Valores:<br>
+🔢Valores:<br>
 Insira os valores com seu mouse para calcular instantaneamente.<br>
 
-💸 Operações<br>
-Escolha entre: Soma, Subtração, Multiplicação e Divisão.<br><br>
+🧮Operações<br>
+Escolha entre: Soma, Subtração, Multiplicação e Divisão.<br>
 
-📜Display:<br>
+🟰Display:<br>
 Veja o resultado imediatamente no visor.<br>
 `C`: Limpa o visor | `←`: Remove o último número inserido
 
