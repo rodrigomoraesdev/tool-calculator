@@ -1,7 +1,7 @@
 # Ferramenta: Calculadora
 
 <div align="center">
-<img src="./assets/calculator.png" alt="Imagem 1" width="50%">
+<img src="./assets/calculator.png" alt="Imagem 1" width="48%">
 </div>
 
 ## 👨🏻‍💻 [Abrir Projeto](https://tool-calculator.vercel.app/)
