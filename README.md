@@ -1,14 +1,14 @@
 # Ferramenta: Calculadora
 
 <div align="center">
-<img src="./assets/calculator.png" alt="Imagem 1" width="30%">
+<img src="./assets/calculator.png" alt="Imagem 1" width="50%">
 </div>
 
 ## 👨🏻‍💻 [Abrir Projeto](https://tool-calculator.vercel.app/)
 
 ## 📝 Introdução
 
-Ferramenta desenvolvida para cálculos matemáticos simples.
+Ferramenta desenvolvida para cálculos matemáticos básicos de forma rápida e precisa.
 
 ## 💡 Sobre
 
