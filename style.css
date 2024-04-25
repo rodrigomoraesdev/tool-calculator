@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+    --background-color: #31363F;
+    --text-color: #EEEEEE;
+
+    --calculator-background-color: #222831;
+
+    --calculator-display-color: #EEEEEE;
+    --calculator-display-text-color: #31363F;
+
+    --calculator-background-button-color: #31363F;
+    --calculator-background-text-color: #EEEEEE;
+
+
+    --font-family: "Montserrat", sans-serif;
+}
+
+
+body {
+    height: 100vh;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+}
+
+
+
+h1 {
+    text-align: center;
+    font-weight: 400;
+}
+
+
+.calculator {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 40em;
+    width: 25em;
+    background-color: var(--calculator-background-color);
+
+    padding: 2em;
+    border-radius: 1em;
+}
+
+#result {
+    background-color: var(--calculator-display-color);
+    color: var(--calculator-display-text-color);
+    font-size: 3em;
+    text-align: right;
+    padding: 0 .1em;
+    margin: .5em 0 .5em;
+    min-height: 1.3em;
+
+}
+
+.buttons {
+    font-size: 3em;
+    width: 1.7em;
+    height: 1.75em;
+    background-color: var(--calculator-background-button-color);
+    color: var(--calculator-background-text-color);
+    font-family: var(--font-family);
+    border: none;
+    cursor: pointer;
+}
+
+.btn-zero {
+    width: 3.44em;
+}
+
+.btn-equal {
+    height: 3.53em;
+}
+
+.buttons:hover {
+    background-color: var(--calculator-background-color);
+    color: var(--text-color);
+    border: 1px solid var(--calculator-background-text-color);
+}
+
+.by {
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(25, 124, 190);
+}
